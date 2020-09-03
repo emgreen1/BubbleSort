@@ -1,7 +1,5 @@
 # BubbleSort in C
-Implementation of BubbleSort Algorithm in C, Java, and Python
-
-This is just a simple implementation of a classic Bubble Sort sorting algorithm in three widely used languages. 
+Implementation of BubbleSort Algorithm in C
 
 #### This version generates a random integer array and prints each pass within the bubbleSort algorithm to make the steps it took exceedingly clear. 
 Using it consists of pulling the repo and entering the C directory. There you will find a Makefile that already sets everything up, so all you need to do is the following: 
